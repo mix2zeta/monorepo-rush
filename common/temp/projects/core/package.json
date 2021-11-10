@@ -1,0 +1,10 @@
+{
+  "name": "@rush-temp/core",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "~4.4.4",
+    "winston": "~3.3.3",
+    "winston-daily-rotate-file": "~4.5.5"
+  }
+}

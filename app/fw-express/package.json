@@ -1,0 +1,14 @@
+{
+  "name": "@warroom/fw-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "express": "~4.17.1",
+    "@warroom/core": "~1.0.0"
+  }
+}

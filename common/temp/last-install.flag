@@ -1,0 +1,6 @@
+{
+  "node": "14.17.3",
+  "packageManager": "pnpm",
+  "packageManagerVersion": "6.7.1",
+  "storePath": "/Users/ws20013/miz/monorepo-rush/common/temp/pnpm-store"
+}
